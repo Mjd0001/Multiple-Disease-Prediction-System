@@ -13,7 +13,7 @@ This web application, built using Streamlit, integrates three machine learning m
 ## How to Use
 ### Clone the repository:
 ```
-git clone https://github.com/yourusername/Multiple-Disease-Prediction-System.git
+git clone https://github.com/Mjd0001/Multiple-Disease-Prediction-System.git
 ```
 
 ### Navigate to the project directory:
