@@ -4,7 +4,7 @@ This web application, built using Streamlit, integrates three machine learning m
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Multiple-Disease-Prediction-System.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multiple-disease-prediction-systemx.streamlit.app/)
 
 ## GitHub Codespaces
 
