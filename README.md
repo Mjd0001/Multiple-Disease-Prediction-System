@@ -6,9 +6,6 @@ This web application, built using Streamlit, integrates three machine learning m
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multiple-disease-prediction-systemx.streamlit.app/)
 
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
 ## How to Use
 ### Clone the repository:
@@ -24,7 +21,6 @@ cd Multiple-Disease-Prediction-System
 ```
 pip install -r requirements.txt
 ```
-
 ### Run the Streamlit app:
 ```
 streamlit run streamlit_app.py
