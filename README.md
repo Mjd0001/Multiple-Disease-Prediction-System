@@ -1,25 +1,40 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Multiple-Disease-Prediction-System
 
-Description of the app ...
+This web application, built using Streamlit, integrates three machine learning models to provide predictions for multiple health conditions: Diabetes, Heart Disease, and Parkinson's Disease. The app enables users to input relevant medical data and receive predictions from the trained models. It's a simple and accessible way to deploy machine learning models in healthcare, making predictive analysis available to a wider audience.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://Multiple-Disease-Prediction-System.streamlit.app/)
 
 ## GitHub Codespaces
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
-## Section Heading
+## How to Use
+### Clone the repository:
+```
+git clone https://github.com/yourusername/Multiple-Disease-Prediction-System.git
+```
 
-This is filler text, please replace this with text for this section.
+### Navigate to the project directory:
+```
+cd Multiple-Disease-Prediction-System
+```
+### Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+
+### Run the Streamlit app:
+```
+streamlit run app.py
+```
 
 ## Further Reading
+Here are some relevant resources to learn more about disease prediction models and Streamlit:
+###################
+احط صفحات اكواد كل مودل
+##################
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+
+
