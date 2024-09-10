@@ -27,10 +27,10 @@ streamlit run streamlit_app.py
 ```
 
 ## Further Reading
-Here are some relevant resources to learn more about disease prediction models and Streamlit:
-###################
-احط صفحات اكواد كل مودل
-##################
+Here are some relevant resources to learn more about disease prediction models:
+- [Diabetes Model](https://github.com/Mjd0001/Diabetes_Prediction.git)
+- Heart Disease
+- Parkinson's Disease
 
 
 
