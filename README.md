@@ -29,7 +29,7 @@ streamlit run streamlit_app.py
 ## Further Reading
 Here are some relevant resources to learn more about disease prediction models:
 - [Diabetes Model](https://github.com/Mjd0001/Diabetes_Prediction.git)
-- Heart Disease
+- [Heart Disease](https://github.com/Mjd0001/heart-disease-prediction-system.git)
 - Parkinson's Disease
 
 
