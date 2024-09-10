@@ -1,6 +1,6 @@
 # 📦 Multiple-Disease-Prediction-System
 
-This web application, built using Streamlit, integrates three machine learning models to provide predictions for multiple health conditions: Diabetes, Heart Disease, and Parkinson's Disease. The app enables users to input relevant medical data and receive predictions from the trained models. It's a simple and accessible way to deploy machine learning models in healthcare, making predictive analysis available to a wider audience.
+This web application, built using Streamlit, integrates three machine learning models to provide predictions for multiple health conditions: Diabetes,and Heart Disease. The app enables users to input relevant medical data and receive predictions from the trained models. It's a simple and accessible way to deploy machine learning models in healthcare, making predictive analysis available to a wider audience.
 
 ## Demo App
 
@@ -30,7 +30,6 @@ streamlit run streamlit_app.py
 Here are some relevant resources to learn more about disease prediction models:
 - [Diabetes Model](https://github.com/Mjd0001/Diabetes_Prediction.git)
 - [Heart Disease](https://github.com/Mjd0001/heart-disease-prediction-system.git)
-- Parkinson's Disease
 
 
 
